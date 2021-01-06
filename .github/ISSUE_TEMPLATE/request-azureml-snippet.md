@@ -14,3 +14,6 @@ assignees: ''
 ```
 [Example of Snippet Code]
 ```
+
+NOTE:
+All snippets are added to [this folder](https://github.com/Azure/azureml-web/tree/main/website/docs/vs-code-snippets). Feel free to submit a PR directly to the repo to fast track this snippet request
