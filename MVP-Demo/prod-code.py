@@ -14,7 +14,7 @@ workspace = Workspace.from_config()
 
 # %%
 from azureml.core import Experiment
-experiment = Experiment(workspace, "diabetes-expr")
+experiment = Experiment(workspace, "spark-diabetes-expr")
 
 
 # %%
